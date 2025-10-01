@@ -27,6 +27,10 @@ O sistema XFood é composto pelas seguintes entidades principais:
 - Um **pedido** contém muitos **itens** e possui um **pagamento** e uma **entrega**
 - **Clientes** e **endereços** possuem relacionamento N:N (múltiplos endereços de entrega)
 
+### 2.2 Diagrama Entidade-Relacionamento
+
+![Imagem](erd.png)
+
 ---
 
 ## 3. Implementação – DDL
